@@ -1,0 +1,4 @@
+/node_modules/
+/src/private_data.ts/
+/dist/
+/.idea/
